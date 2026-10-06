@@ -16,4 +16,4 @@
 - [Исходный код](./web-layout-project/)
 - [Макет в Figma](https://www.figma.com/file/YWQ3NFDGxDweqlgFrfQlqm/Modules_page?node-id=0%3A1)
 
-- [Открыть проект в браузере](...)
+- [Открыть проект в браузере](https://mrsgubanchik.github.io/qa-portfolio/12-html-css/web-layout-project/)
