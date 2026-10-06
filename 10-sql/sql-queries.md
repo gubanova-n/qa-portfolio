@@ -17,20 +17,13 @@ VALUES (6, 'Тетрадь 12 листов в клетку', 'Канцтовар
 SELECT * FROM product;
 ```
 
-### 3. Заказы с деталями, где сумма больше 3000, отсортировано по дате (возрастание)
+### 3. Удаление товара
 
 ```sql
-SELECT
-    orders.order_id,
-    orders.order_date,
-    orders.total_price,
-    order_details.product_id,
-    order_details.quantity
-FROM orders
-INNER JOIN order_details
-ON orders.order_id = order_details.order_id
-WHERE orders.total_price > 3000
-ORDER BY orders.order_date ASC;
+DELETE FROM product
+WHERE id = 6;
+
+SELECT * FROM product;
 ```
 
 ### 4. Товары из категории Канцтовары
@@ -197,4 +190,20 @@ FROM users
 LEFT JOIN orders
 ON users.user_id = orders.user_id
 ORDER BY users.name ASC;
+```
+
+### 3. Заказы с деталями, где сумма больше 3000, отсортировано по дате (возрастание)
+
+```sql
+SELECT
+    orders.order_id,
+    orders.order_date,
+    orders.total_price,
+    order_details.product_id,
+    order_details.quantity
+FROM orders
+INNER JOIN order_details
+ON orders.order_id = order_details.order_id
+WHERE orders.total_price > 3000
+ORDER BY orders.order_date ASC;
 ```
