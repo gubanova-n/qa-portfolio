@@ -5,4 +5,4 @@
 ## Содержание
 
 - [SQL-запросы](./sql-queries.md)
-- EER-диаграмма
+- [EER-диаграмма](./eer-diagram.jpg)
