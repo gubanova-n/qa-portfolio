@@ -2,6 +2,10 @@
 
 <table>
   <tr>
+    <td><strong>ID</strong></td>
+    <td>BUG-MARKET-001</td>
+  </tr>
+  <tr>
     <td><strong>Заголовок</strong></td>
     <td>Отсутствует кнопка "Редактировать" для объявлений во вкладке "Не активные"</td>
   </tr>
@@ -45,6 +49,10 @@
 <br>
 
 <table>
+  <tr>
+    <td><strong>ID</strong></td>
+    <td>BUG-MARKET-002</td>
+  </tr>
   <tr>
     <td><strong>Заголовок</strong></td>
     <td>Отсутствует кнопка "Редактировать" для объявлений во вкладке "Проданные"</td>
@@ -90,6 +98,10 @@
 
 <table>
   <tr>
+    <td><strong>ID</strong></td>
+    <td>BUG-MARKET-003</td>
+  </tr>
+  <tr>
     <td><strong>Заголовок</strong></td>
     <td>Форма авторизации не удаляет лишние пробелы в начале и в конце</td>
   </tr>
@@ -131,6 +143,10 @@
 <br>
 
 <table>
+  <tr>
+    <td><strong>ID</strong></td>
+    <td>BUG-MARKET-004</td>
+  </tr>
   <tr>
     <td><strong>Заголовок</strong></td>
     <td>В форме авторизации при введении пароля отображаются введенные символы</td>
