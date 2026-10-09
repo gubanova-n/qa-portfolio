@@ -1,70 +1,50 @@
 # 👩‍💻 QA Engineer Portfolio — Наталья Губанова
 
-Привет! Меня зовут Наталья.  
-Я развиваюсь в направлении **QA / тестирования программного обеспечения**.
+Портфолио учебных и практических работ по тестированию программного обеспечения.
 
-В этом репозитории собраны мои работы по ручному тестированию,
-тест-дизайну, API, SQL, Web и Mobile testing.
-
----
+В репозитории представлены тестовая документация, техники тест-дизайна, ручное тестирование Web и Mobile, API-тестирование, SQL и базовая веб-вёрстка.
 
 ## 🛠 Навыки и инструменты
 
-- Manual Testing
-- Functional Testing
-- Regression Testing
-- Web Testing
-- Mobile Testing
-- Test Design
-- Test Cases
-- Checklists
-- Bug Reports
-- API Testing
-- Postman
-- SQL
-- Chrome DevTools
-- HTML / CSS
-- Git / GitHub
+Manual Testing · Functional Testing · Regression Testing · Web Testing · Mobile Testing · Test Design · Test Cases · Checklists · Bug Reports · API Testing · Postman · SQL · Chrome DevTools · HTML / CSS · Git / GitHub
 
 ---
 
 ## 📂 Портфолио
 
 ### 📝 Тестовая документация
-- 📝 [Тест-план — Sima-Land](./01-test-plan/)
-- Test Cases
-- Checklists
-- Bug Reports
-- Test Session Report
+
+- [Тест-план — Sima-Land](./01-test-plan/)
+- [Web Testing — тест-кейсы и чек-листы](./02-web-testing/)
+- [Mobile Testing — Облако Mail.ru](./03-mobile-testing/)
+- [Баг-репорты](./04-bug-reports/)
 
 ### 🧠 Техники тест-дизайна
-- Decision Table
-- Pairwise Testing
-- Error Guessing
-- State Transition Testing
 
-### 🌐 Web Testing
-Тестирование веб-приложений и пользовательских сценариев.
+- [Таблицы решений](./05-decision-tables/)
+- [Попарное тестирование](./06-pairwise-testing/)
+- [Предугадывание ошибок](./07-error-guessing/)
+- [Сессионное тестирование](./08-session-testing/)
+- [Состояния и переходы](./09-state-transition-testing/)
 
-### 📱 Mobile Testing
-Тестирование мобильных приложений.
+### 🗄 SQL и API
 
-### 🔌 API Testing
-Работы с API и Postman.
-
-### 🗄 SQL
-SQL-запросы и работа с базами данных.
+- [SQL-запросы и EER-диаграмма](./10-sql/)
+- [API-тестирование в Postman](./11-postman/)
 
 ### 💻 HTML / CSS
-Учебные работы по основам веб-технологий.
 
-### 📌 Итоговые проекты
-Практические учебные проекты по тестированию.
+- [Учебный проект по веб-вёрстке](./12-html-css/)
+- [Открыть проект в браузере](https://gubanova-n.github.io/qa-portfolio/12-html-css/web-layout-project/)
+
+### 🧪 Итоговый проект
+
+- [Итоговый проект № 1 — тестирование Market](./13-final-project-market/)
 
 ---
 
 ## 📫 Контакты
 
-- GitHub: [mrsgubanchik](https://github.com/mrsgubanchik)
+- GitHub: [gubanova-n](https://github.com/gubanova-n)
 - Email: mrs.gubanchik@gmail.com
 - Telegram: [@mrs_gubanchik](https://t.me/mrs_gubanchik)
