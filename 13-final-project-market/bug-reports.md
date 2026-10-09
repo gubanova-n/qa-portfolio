@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td><strong>ID</strong></td>
-    <td>001</td>
+    <td>BUG-MARKET-001</td>
   </tr>
   <tr>
     <td><strong>Заголовок</strong></td>
@@ -51,7 +51,7 @@
 <table>
   <tr>
     <td><strong>ID</strong></td>
-    <td>002</td>
+    <td>BUG-MARKET-002</td>
   </tr>
   <tr>
     <td><strong>Заголовок</strong></td>
@@ -99,7 +99,7 @@
 <table>
   <tr>
     <td><strong>ID</strong></td>
-    <td>003</td>
+    <td>BUG-MARKET-003</td>
   </tr>
   <tr>
     <td><strong>Заголовок</strong></td>
@@ -145,7 +145,7 @@
 <table>
   <tr>
     <td><strong>ID</strong></td>
-    <td>004</td>
+    <td>BUG-MARKET-004</td>
   </tr>
   <tr>
     <td><strong>Заголовок</strong></td>
