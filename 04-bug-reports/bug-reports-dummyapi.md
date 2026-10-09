@@ -2,41 +2,41 @@
 
 <table>
   <tr>
-    <th>Заголовок</th>
+    <td><strong>Заголовок</strong></td>
     <td>Нет возможности создать нового пользователя с именем и фамилией больше 30 символов</td>
   </tr>
   <tr>
-    <th>Описание</th>
+    <td><strong>Описание</strong></td>
     <td>Согласно документации, нового пользователя можно создать с именем и фамилией из 2-50 символов</td>
   </tr>
   <tr>
-    <th>Приоритет</th>
+    <td><strong>Приоритет</strong></td>
     <td>Нормальный</td>
   </tr>
   <tr>
-    <th>Серьезность</th>
+    <td><strong>Серьезность</strong></td>
     <td>Незначительная</td>
   </tr>
   <tr>
-    <th>Предусловия</th>
+    <td><strong>Предусловия</strong></td>
     <td>
       URL: https://dummyapi.io/data/v1/user/create<br>
       Метод: POST
     </td>
   </tr>
   <tr>
-    <th>Шаги воспроизведения</th>
+    <td><strong>Шаги воспроизведения</strong></td>
     <td>
       1. В Body ввести данные пользователя с именем и фамилией больше 30 символов<br>
       2. Нажать Send
     </td>
   </tr>
   <tr>
-    <th>Ожидаемый результат</th>
+    <td><strong>Ожидаемый результат</strong></td>
     <td>Пользователь создан. 200 OK</td>
   </tr>
   <tr>
-    <th>Фактический результат</th>
+    <td><strong>Фактический результат</strong></td>
     <td>
       "firstName": "Path `firstName` is longer than the maximum allowed length (30)."<br>
       "lastName": "Path `lastName` is longer than the maximum allowed length (30)."<br>
