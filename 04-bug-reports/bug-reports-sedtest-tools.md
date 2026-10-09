@@ -16,10 +16,6 @@
     <td>Нормальный</td>
   </tr>
   <tr>
-    <td><strong>Серьезность</strong></td>
-    <td></td>
-  </tr>
-  <tr>
     <td><strong>Предусловия</strong></td>
     <td>
       1. URL: http://techstore.sedtest-tools.ru:5000/api/products<br>
